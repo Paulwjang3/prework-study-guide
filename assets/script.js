@@ -22,7 +22,7 @@ function selectTopics() {
 }
 
 console.log('Here are the topics we learned through Prework:');
-listTopics()
+listTopics();
 console.log('Which topic should we study first?');
-selectTopics()
+selectTopics();
 
